@@ -1,0 +1,2 @@
+def blog():
+    return None
